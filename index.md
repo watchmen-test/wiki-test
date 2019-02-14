@@ -1,13 +1,14 @@
-Heading
-=======
+Welcome...
+==========
 
-SubHeading
-----------
+### to our SSP Wiki.
 
-  * list item 1
-  * list item 2
+About
+-----
 
-  This is a hyperlink to [Google](http://google.com).
+This is some content...
 
-  Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](http://placekitten.com/g/250/250)
+Getting Started
+---------------
+
+This is some content...
