@@ -1,5 +1,12 @@
-# Your wiki name
+# SSP Wiki
 
-[Home](home.md)
+[Home](index.md)
+
+[Teams]()
+
+  * [Guardians](teams/guardians.md)
+  * [Watchmen](teams/watchment.md)
+  * [Skynet](teams/skynet.md)
+
 [About](about.md)
-[Download](download.md)
+[gimmick:Theme](slate)
